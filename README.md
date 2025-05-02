@@ -1,9 +1,9 @@
 - 👋 Hi, I’m John
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning HTML 
-- 💞️ I’m looking to collaborate on Django
+- 🌱 I’m currently learning Web development 
+- 💞️ I’m looking to collaborate on backend with Django
 - 📫 How to reach me ...
-- 😄 Pronouns: He
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: I am ambiverted
 
 <!---
