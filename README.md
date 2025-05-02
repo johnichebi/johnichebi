@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on backend with Django
 - 📫 How to reach me ...
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am ambiverted
 
 <!---
